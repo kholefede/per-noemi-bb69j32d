@@ -31,7 +31,7 @@ Apri `index.html` e cerca `const CONFIG` all'inizio dello `<script>`, in fondo a
 | `sottotitolo` | Frase sotto la busta durante l'apertura |
 | `messaggio` | La dedica: un array, **un elemento = un paragrafo** |
 | `titoloNomi` | Intestazione della lista dei partecipanti |
-| `etichettaConteggio` | Testo accanto al numero dei partecipanti ("colleghi del tuo papà, un solo pensiero") |
+| `etichettaConteggio` | Testo accanto al numero dei partecipanti ("persone, un solo pensiero") |
 | `invitoScorri` | Etichetta del pulsantino che invita a scorrere |
 | `partecipanti` | I nomi, mostrati nell'ordine e con la grafia esatti |
 | `firmaIntro` / `firma` | Chiusura ("Con tutto il nostro affetto," / "I colleghi del tuo papà") |
